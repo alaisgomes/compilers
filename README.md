@@ -4,12 +4,12 @@
 ### About
 Practical complimentary practical exam for Compilers class divided in 3 parts, developed through the course as the exams were.
 The code is devided in different files:
-> html.h
-> html.tab.c
-> html.y
-> lex.yy.c
-> html.l
-> html.m
+* html.h
+* html.tab.c
+* html.y
+* lex.yy.c
+* html.l
+* html.m
 
 Executing instructions (with trace flag):
 ```sh
