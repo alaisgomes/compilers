@@ -2,7 +2,7 @@
 ## Compilers Complimentary Exam
  
 ### About
-Practical complimentary practical exam for Compilers class divided in 3 parts, developed through the course as the exams were.
+Practical complimentary exam for Compilers class divided in 3 parts, developed through the course as the exams were.
 The code is devided in different files:
 * html.h
 * html.tab.c
