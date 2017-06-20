@@ -2,14 +2,14 @@
 ## Compilers Complimentary Exam
  
 ### About
-Practical complimentary practical exam for Compilers class divided in 3 parts, developed through the course as the exams were.
+Practical complimentary exam for Compilers class divided in 3 parts, developed through the course as the exams were.
 The code is devided in different files:
-> html.h
-> html.tab.c
-> html.y
-> lex.yy.c
-> html.l
-> html.m
+* html.h
+* html.tab.c
+* html.y
+* lex.yy.c
+* html.l
+* html.m
 
 Executing instructions (with trace flag):
 ```sh
@@ -37,11 +37,11 @@ Grammar:
 <ident> := a pattern of alpha-numerics, underscores and dashes
 <text> := a pattern of basically any characters except & , > , < , "
 ```
-For the almost any characters described above, it was discussed in group in class to decide what could be valid or not and confirmed by the professor later for the exercise to be done.
+For the "almost any characters" described above, it was discussed in groups during class to decide what could be valid or not and confirmed by the professor later for the exercise to be done.
 
 ### Part 2 - Exam 2
-* All possible changes should be done to the code, to fit the requirements below. Grammar could be changed.
-* It was added changed to previous programs, making it check for syntax. If there are syntax errors, output should be error message telling what type of error happened and at what line of the parsing code. If there are no errors, there should be no output, unless trace flag is activated (-t).
+All possible changes should be done to the code, to fit the requirements below. Grammar could be changed.
+* Change the current code so it can check for syntax. If there are syntax errors, output should be error message telling what type of error happened and at what line of the parsing code. If there are no errors, there should be no output, unless trace flag is activated (-t).
 * Tracing flag makes the program display all parsing and reduction messages. 
 
 ### Part 3 - Exam 3
