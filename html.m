@@ -1,4 +1,5 @@
 /*************************************************
+Compilers: Exam 3
 
 Obs: Program stop when encounter first error.
 
@@ -95,7 +96,7 @@ int ProcessSemantics (char type[], char tagName[]) {
 
 	strcpy (string, type);
 
-	strcat(string, strlwr(tagName));
+	strcat( string, strlwr(tagName));
 
 
 	/* Rules for HTML tag */

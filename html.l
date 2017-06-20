@@ -1,6 +1,12 @@
+/*************************************************
+Compilers: Exam 3
+
+
+Obs: Program stop when encounter first error.
 
 ***************************************************
 
+   
 
      ABOUT START STATE
 *    An HTML program can start with a normal tag, text, comments or bangtag. 
@@ -23,7 +29,6 @@
 
 
 %{
-	
 /*
  *  Constant definitions:
  *      these are all found in html.h, which is included via html.y
